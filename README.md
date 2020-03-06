@@ -1,4 +1,4 @@
-# hexagonpy
+# hexagonpy-gui
 Python script to convert an image into a grid of hexagon tiles
 
 ## requirements
