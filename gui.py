@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import filedialog
-from hexagonify import hexagonify
+from image import hexagonify
 
 class Application(Frame):
 	def __init__(self, master=None):
